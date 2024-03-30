@@ -13,7 +13,7 @@ const Resume = () => {
             <div className='cv'>
                 <a href='https://drive.google.com/file/d/16nJN6KQbT5dhon1CLhviZWj57BXZOYIp/view?usp=drive_link'>
                     <button className='download'>
-                        <img src="../../../public/images/download.svg" alt="" class='down' width="50"/>
+                        <img src="../../../public/images/download1.png" alt="" class='down' width="100"/>
                         Download CV
                     </button>
                 </a>
