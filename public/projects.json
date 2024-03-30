@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Weather App",
+      "category": "Web development",
+      "image": "images/weather.jpeg",
+      "link" : "https://weather-app-rose-two-14.vercel.app/"
+    },
+    {
+      "id": 2,
+      "title": "Quiz App",
+      "category": "Web development",
+      "image": "images/quizapp.jpeg",
+      "link" : "https://quiz-app-umber-theta.vercel.app/"
+    },
+    {
+      "id": 3,
+      "title": "E-Commerce Site",
+      "category": "Web development",
+      "image": "images/e-commerce.jpeg",
+      "link" : "https://ecommerce-76zvi6yx6-vishnu-siddhans-projects.vercel.app/"
+    },
+    {
+      "id": 4,
+      "title": "Pizza App",
+      "category": "Web development",
+      "image": "images/pizza.jpeg",
+      "link" : "https://github.com/Vishnurvs/PizzaApp"
+    },
+    {
+      "id": 5,
+      "title": "Todo List",
+      "category": "Web development",
+      "image": "images/todolist.jpeg",
+      "link" : "https://todo-list-azure-pi.vercel.app/"
+    },
+    {
+      "id": 6,
+      "title": "Responsive Animations",
+      "category": "Web development",
+      "image": "images/responsiveanimations.jpeg",
+      "link" : "https://responsive-animations.vercel.app/"
+    },
+    {
+      "id": 7,
+      "title": "Portfolio",
+      "category": "UIUX Design",
+      "image": "images/project-6.png",
+      "link" : ""
+    }
+  ]
+  

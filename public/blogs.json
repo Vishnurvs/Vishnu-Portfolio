@@ -1,0 +1,35 @@
+[
+    {
+      "title": "React Js",
+      "category": "Guvi",
+      "date": "Feb 09, 2024",
+      "image": "/images/reactjs.jpeg",
+      "description": "View Certificate",
+      "links": "https://www.guvi.in/certificate?id=YW3l12008774u1Hw6v"
+    },
+    {
+      "title": "SQL",
+      "category": "Hacker Rank",
+      "date": "Jul 07, 2023",
+      "image": "/images/HackerRank.jpeg",
+      "description": "View Certificate",
+      "links": "https://www.hackerrank.com/certificates/7d4e40c1069e"
+    },
+    {
+      "title": "Guvi",
+      "category": "MongoDB",
+      "date": "Jan 30, 2023",
+      "image": "/images/mongodb.jpeg",
+      "description": "View Certificate",
+      "links": "https://www.guvi.in/verify-certificate?id=L5W15e3V849XE1d607"
+    },
+    {
+      "title": "SQL and Relational Databases 101",
+      "category": "IBM Developer Skills Network",
+      "date": "June 17, 2023",
+      "image": "/images/ibm.jpeg",
+      "description": "View Certificate",
+      "links": "https://courses.cognitiveclass.ai/certificates/1501b01b7f8e4b77a2d04237eb268839"
+    }
+  ]
+  
