@@ -27,6 +27,7 @@ const servicesData = [
 
 
 const About = () => {
+    
     const [testimonials, setTestimonials] = useState([]);
     useEffect(() => {
         fetch('testimonials.json').then(res => res.json()).then(data => {
@@ -36,8 +37,10 @@ const About = () => {
     }, [])
 
     return (
+        
         <div className='about active'>
             <header>
+                
                 <h2 className='h2 article-title'>About me</h2>
             </header>
             <section className='about-text'>
