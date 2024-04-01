@@ -823,7 +823,7 @@ main {
       width: 100%; /* Full width on small screens */
       margin-bottom: 30px;
   }
-
+}
 
 /*-----------------------------------*\
   #NAVBAR
@@ -2613,5 +2613,4 @@ textarea.form-input::-webkit-resizer {
 .skill-image {
   width: 24px;
   height: 24px;
-}
 }
