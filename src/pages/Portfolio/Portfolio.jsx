@@ -54,7 +54,7 @@ const Portfolio = () => {
                                             </div>
                                             <img src={project.image} alt="" required data-aos="zoom-in-down"/>
                                         </figure>
-                                        <h3 className='projrct-title' required data-aos="zoom-in-down">{project.title}</h3>
+                                        <h3 className='project-title' required data-aos="zoom-in-down">{project.title}</h3>
                                         <p className='project-category' required data-aos="zoom-in-down">{project.category}</p>
                                     </a>
                                 </li>
