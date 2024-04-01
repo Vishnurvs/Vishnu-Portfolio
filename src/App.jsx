@@ -5,9 +5,9 @@ import Navbar from './components/Navbar'
 import { useEffect } from 'react'
 
 function App() {
-  useEffect(() => {
-    alert("Use Desktop Site in Mobile");
-  }, [])
+  // useEffect(() => {
+  //   alert("Use Desktop Site in Mobile");
+  // }, [])
   
   return (
     <>
